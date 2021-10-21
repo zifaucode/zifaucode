@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zifaucode
 - 👀 I’m Boring
 - 🌱 I’m currently learning Technology
-- Ngomongin Teknology Gk ada habis - habisnya   :)
+- Ngomongin Teknologi Gk ada habis - habisnya   :)
 
 <!---
 zifaucode/zifaucode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
