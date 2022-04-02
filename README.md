@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @zifaucode
-- 👀 I’m Boring
-- 🌱 I’m currently learning Technology
+- 👋 Hi, I’m zifau
 - Ngomongin Teknologi Gk ada habis - habisnya   :)
 
 <!---
