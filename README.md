@@ -10,9 +10,9 @@
         "website": "https://fauziagustian.com",
     }],
     "country": [{ 
-        "name":"Indonesia", 
+        "name": "Indonesia", 
         "code": "+62", 
-        "acronym":"ID" 
+        "acronym": "ID" 
     }]
 }
 ```
