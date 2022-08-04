@@ -4,16 +4,20 @@
 
 ```json
 { 
-    "profile": [{ 
-        "name": "Fauzi Agustian",
-        "role": "Backend Web Depelover",
-        "website": "https://fauziagustian.com",
-    }],
-    "country": [{ 
-        "name": "Indonesia", 
-        "code": "+62", 
-        "acronym": "ID" 
-    }]
+    "profile": [
+        { 
+            "name": "Fauzi Agustian",
+            "role": "Backend Web Developer",
+            "website": "https://fauziagustian.com",
+        }
+    ],
+    "country": [
+        { 
+            "name": "Indonesia", 
+            "code": "+62", 
+            "acronym": "ID" 
+        }
+    ]
 }
 ```
 
