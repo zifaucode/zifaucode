@@ -7,7 +7,8 @@
     "profile": [
         { 
             "name": "Fauzi Agustian",
-            "role": "Backend Web Developer",
+            "role": "Fullstack Web Developer",
+            "interest": "Backend Web Developer",
             "website": "https://fauziagustian.com",
         }
     ],
@@ -28,7 +29,7 @@ I'm from Indonesia, with daily life as a programmer
 
 ## 🛠 Skills
 
-FRAMEWORK : `LARAVEL`, `VUE JS`, `NODE JS`.
+FRAMEWORK : `LARAVEL-VUE`, `EXPRESS JS`.
 
 DATA : `MYSQL` , `SEQUELIZE ORM`, `RESTful API`
 
