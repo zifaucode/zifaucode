@@ -9,7 +9,7 @@
             "name": "Fauzi Agustian",
             "role": "Fullstack Web Developer",
             "interest": "Backend Web Developer",
-            "website": "https://fauziagustian.com",
+            "website": "https://fauziweb.site",
         }
     ],
     "country": [
