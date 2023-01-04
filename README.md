@@ -10,6 +10,7 @@
             "role": "Fullstack Web Developer",
             "interest": "Backend Web Developer",
             "website": "https://fauziweb.site",
+            "notes": "https://medium.com/@fauziagustian68",
         }
     ],
     "country": [
