@@ -31,10 +31,11 @@ I'm from Indonesia, with daily life as a programmer
 ## 🛠 Skills
 
 
+
 |---------------------------------------------------------------------------------------------------------------------------------------------|------|
-| FRAMEWORK | `LARAVEL-VUE`, `EXPRESS JS` |
-| DATA | `MYSQL` , `SEQUELIZE ORM`, `RESTful API` |
-| DOCUMENTATION | `SWAGGER`, `POSTMAN` |
+| FRAMEWORK | `LARAVEL-VUE` `EXPRESS JS` |
+| DATA | `MYSQL`  `SEQUELIZE ORM` `RESTful API` |
+| DOCUMENTATION | `SWAGGER` `POSTMAN` |
 
 
 FRAMEWORK : `LARAVEL-VUE`, `EXPRESS JS`.
