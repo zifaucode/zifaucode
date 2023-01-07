@@ -30,12 +30,12 @@ I'm from Indonesia, with daily life as a programmer
 
 ## 🛠 Skills
 
-| Badge                                                                                                                                       | Code |
+
 |---------------------------------------------------------------------------------------------------------------------------------------------|------|
-| <a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-44475a?style=for-the-badge&logo=visualstudiocode&logoColor=1793D1"></a> | `https://img.shields.io/badge/Visual_Studio_Code-44475a?style=for-the-badge&logo=visualstudiocode&logoColor=1793D1` |
-| <a href="#"><img src="https://img.shields.io/badge/Atom-ffd152?style=for-the-badge&logo=atom&logoColor=574c4f"></a> | `https://img.shields.io/badge/Atom-ffd152?style=for-the-badge&logo=atom&logoColor=574c4f` |
-| <a href="#"><img src="https://img.shields.io/badge/Sublime-574c4f?style=for-the-badge&logo=sublimetext&logoColor=ed880c"></a> | `https://img.shields.io/badge/Sublime-574c4f?style=for-the-badge&logo=sublimetext&logoColor=ed880c` |
-| <a href="#"><img src="https://img.shields.io/badge/PyCharm-282a36?style=for-the-badge&logo=pycharm&logoColor=50fa7b"></a> | `https://img.shields.io/badge/PyCharm-282a36?style=for-the-badge&logo=pycharm&logoColor=50fa7b` |
+| FRAMEWORK | `LARAVEL-VUE`, `EXPRESS JS` |
+| DATA | `MYSQL` , `SEQUELIZE ORM`, `RESTful API` |
+| DOCUMENTATION | `SWAGGER`, `POSTMAN` |
+
 
 FRAMEWORK : `LARAVEL-VUE`, `EXPRESS JS`.
 
