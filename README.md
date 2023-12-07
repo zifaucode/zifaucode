@@ -11,6 +11,7 @@
             "interest": "Backend Web Developer",
             "website": "https://siapa.site",
             "notes": "https://medium.com/@fauziagustian68",
+            "email": "fauziagustian68@gmail.com",
         }
     ],
     "country": [
@@ -25,7 +26,6 @@
 
 welcome to my github profile, and thanks for visiting
 
-I'm from Indonesia, with daily life as a programmer
 
 
 ## 🛠 Skills
@@ -34,12 +34,12 @@ I'm from Indonesia, with daily life as a programmer
 |---------------------------------------------------------------------------------------------------------------------------------------------|------|
 | FRAMEWORK | `LARAVEL-VUE` `EXPRESS JS` |
 | DATA | `MYSQL`  `SEQUELIZE ORM` `RESTful API` |
-| DOCUMENTATION | `SWAGGER` `POSTMAN` |
+| DOCUMENTATION | `SWAGGER` `POSTMAN` `GITBOOK` |
 
 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-b0d?style=for-the-badge&logo=ko-fi&logoColor=white)](https://fauziweb.site/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fauziagustiann/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sayazifau)
+[![medium](https://img.shields.io/badge/On%20Medium-b0d?style=for-the-badge&logo=medium&logoColor=whit)](https://medium.com/@fauziagustian68)
 
