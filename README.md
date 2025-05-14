@@ -34,7 +34,7 @@ welcome to my github profile, and thanks for visiting
 |---------------------------------------------------------------------------------------------------------------------------------------------|------|
 | FRAMEWORK | `LARAVEL` `EXPRESS JS` `HONO JS`|
 | DATA | `MYSQL` `POSTGRE SQL` `SEQUELIZE ORM` `PRISMA` `RESTful API` |
-| DOCUMENTATION | `SWAGGER` `POSTMAN` `GITBOOK` |
+| DOCUMENTATION | `SWAGGER` `POSTMAN` `GITBOOK` `NOTION` |
 
 
 
