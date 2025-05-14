@@ -9,7 +9,7 @@
             "name": "Fauzi Agustian",
             "role": "Fullstack Web Developer",
             "interest": "Backend Web Developer",
-            "website": "https://siapa.site",
+            "website": "https://fauziagustian.site",
             "notes": "https://medium.com/@fauziagustian68",
             "email": "fauziagustian68@gmail.com",
         }
@@ -32,8 +32,8 @@ welcome to my github profile, and thanks for visiting
 
 |                                                                                                                                        |  |
 |---------------------------------------------------------------------------------------------------------------------------------------------|------|
-| FRAMEWORK | `LARAVEL-VUE` `EXPRESS JS` |
-| DATA | `MYSQL`  `SEQUELIZE ORM` `RESTful API` |
+| FRAMEWORK | `LARAVEL` `EXPRESS JS` `HONO JS`|
+| DATA | `MYSQL` `POSTGRE SQL` `SEQUELIZE ORM` `PRISMA` `RESTful API` |
 | DOCUMENTATION | `SWAGGER` `POSTMAN` `GITBOOK` |
 
 
