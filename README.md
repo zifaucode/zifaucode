@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:a371f7&height=200&section=header&text=Fauzi%20Agustian&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20Developer%20%E2%80%A2%20Backend%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:a371f7&height=200&section=header&text=Fauzi%20Agustian&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Web%20Developer%20%E2%80%A2%20Cyber%20Security%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+holla+%F0%9F%91%8B+I'm+Fauzi;Backend+Web+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Laravel+%E2%80%A2+Express+%E2%80%A2+Hono;Building+clean+%26+scalable+APIs+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+holla+%F0%9F%91%8B+I'm+Fauzi;Backend+Web+Developer+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Laravel+%E2%80%A2+Express+%E2%80%A2+Hono;Building+clean+%26+scalable+APIs+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,6 +24,7 @@ const fauzi = {
   name:      "Fauzi Agustian",
   role:      "Fullstack Web Developer",
   focus:     "Backend Web Development",
+  interests: ["Cyber Security 🛡️", "Secure API Design 🔐"],
   location:  "Bandung, Indonesia 🇮🇩",
   website:   "https://fauziagustian.site",
   notes:     "https://medium.com/@fauziagustian68",
