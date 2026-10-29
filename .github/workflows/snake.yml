@@ -22,7 +22,9 @@ jobs:
 
       - name: Push ke branch output
         run: |
-          cd dist
+          # salin dulu ke folder baru: file dari Platane/snk dibuat oleh root
+          mkdir -p out && cp dist/* out/
+          cd out
           git init -b output
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
